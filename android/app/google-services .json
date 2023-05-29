@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340031465123",
+    "project_id": "marine-d8fe7",
+    "storage_bucket": "marine-d8fe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340031465123:android:bcafa0c243264f0d728116",
+        "android_client_info": {
+          "package_name": "com.example.appmarine.marine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340031465123-4ssv6btq7iqgaiul5r00km72q0bpdip8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appmarine.marine",
+            "certificate_hash": "cb0b597f384383119188a91c36c1ddf376b5f5f1"
+          }
+        },
+        {
+          "client_id": "340031465123-u28te9e6f5m3ht9iukdlq82tnl58lm04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRYbx62uDq8_jEP2g-ueoT9xgQ5lqFgEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340031465123-u28te9e6f5m3ht9iukdlq82tnl58lm04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
