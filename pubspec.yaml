@@ -48,9 +48,16 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   awesome_dialog: ^3.0.2
   splash_screen_view: ^3.0.0
-  firebase_core: ^2.9.0
+  firebase_core: ^2.10.0
   firebase_auth: ^4.4.0
-  firebase_storage: ^11.0.16
+  firebase_storage: ^11.1.1
+  internet_popup: ^1.0.8+5
+  connectivity_plus: ^2.3.6
+  badges: ^2.0.2
+  cloud_firestore: ^4.0.0
+  flutter_svg: ^0.22.0
+  multiavatar: ^0.1.5
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
